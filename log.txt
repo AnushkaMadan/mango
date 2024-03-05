@@ -1,0 +1,35 @@
+commit 2406d3a5d843e7ac1e795c55cd1e7c8f409fe263
+Author: Anushka <anushkamadan8@gmail.com>
+Date:   Tue Mar 5 19:05:12 2024 +0530
+
+    last commit
+
+commit 456e45e4cb1c008f1247154f0c5e7ba60be412cb
+Author: Anushka <anushkamadan8@gmail.com>
+Date:   Tue Mar 5 18:34:54 2024 +0530
+
+    git ignore second
+
+commit 3e0e0a9a46e25067f3fe2a5c54eaa5c2a95d4714
+Author: Anushka <anushkamadan8@gmail.com>
+Date:   Tue Mar 5 18:33:32 2024 +0530
+
+    first commit in seed
+
+commit 56dcd9b9bae3d486aa29baa84639ec7d273f10ce
+Author: Anushka <anushkamadan8@gmail.com>
+Date:   Tue Mar 5 18:10:02 2024 +0530
+
+    third commit
+
+commit 19b3e7c4bccc350e470d61f12b7f82343867767b
+Author: Anushka <anushkamadan8@gmail.com>
+Date:   Tue Mar 5 18:07:57 2024 +0530
+
+    second commit
+
+commit 026b2a5077348b0bf00cddc93f290881b6f69976
+Author: Anushka <anushkamadan8@gmail.com>
+Date:   Tue Mar 5 18:06:08 2024 +0530
+
+    first commit
